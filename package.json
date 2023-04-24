@@ -1,0 +1,8 @@
+{
+  "name": "TRAN_WSS",
+  "author": "David EVAN",
+  "dependencies": {
+    "redis": "^4.6.5",
+    "ws": "^8.13.0"
+  }
+}
