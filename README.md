@@ -3,6 +3,10 @@
 <br>
 <br>
 <h1>TRAN WSS - WebSocket Server</h1>
+<br>
+    
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=medhead-ers_tran-wss&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=medhead-ers_tran-wss)
+    
 </div>
 
 <br>
